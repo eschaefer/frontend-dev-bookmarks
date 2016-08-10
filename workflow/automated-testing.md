@@ -29,6 +29,7 @@ against sets of codified UI Guidelines.
 + **[Kakapo.js](http://devlucky.github.io/kakapo-js)**: Kakapo its a full featured http mocking library, he allows you to entirely replicate your backend logic in simple and declaritive way directly in the browser.
 + **[Karma](http://karma-runner.github.io/)**: A simple tool that allows you to execute JavaScript code in multiple real browsers.
 + **[Leche](https://github.com/box/leche)**: A JavaScript testing utility designed to work with Mocha and Sinon. This is intended for use both by Node.js and in browsers, so any changes must work in both locations.
++ **[Nightwatch.js](http://nightwatchjs.org)**: A straightfoward end-to-end testing solution for browser based apps and websites.
 + **[PhantomCSS](https://github.com/Huddle/PhantomCSS)**: PhantomCSS takes screenshots and compares them to baseline images to test for RGB pixel differences. PhantomCSS then generates image diffs to help you find the cause.
 + **[QUnit](http://qunitjs.com/)**: QUnit is a powerful, easy-to-use JavaScript unit testing framework. It's used by the jQuery, jQuery UI and jQuery Mobile projects and is capable of testing any generic JavaScript code.
 + **[Refactor Away Anti-Patterns](https://shanetomlinson.com/2013/writing-testable-javascript-part-2-refactor-away-anti-patterns/)**: Shane Tomlinson continues by refactoring the original application, including testing anti patterns, to be easier to read, easier to reuse, and easier to test.
